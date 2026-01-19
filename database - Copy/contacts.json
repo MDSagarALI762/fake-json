@@ -1,0 +1,53 @@
+[
+  {
+    "id": 1,
+    "first": "Alfred",
+    "last": "Kuhlman",
+    "email": "alfred@test.com",
+    "phone": "98989898"
+  },
+  {
+    "id": 2,
+    "first": "Sagar",
+    "last": "Ali",
+    "email": "sagaralik@test.com",
+    "phone": "54545454"
+  },
+  {
+    "id": 3,
+    "first": "Zonaide",
+    "last": "Habib",
+    "email": "Zonaide@test.com",
+    "phone": "75757575"
+  },
+  {
+    "first": "shakil",
+    "last": "bhai",
+    "email": "shailbhai@gmail.com",
+    "id": 4,
+    "phone": "5f5555f"
+  },
+  {
+    "first": "rahat",
+    "last": "ali",
+    "email": "rahat@gmail.com",
+    "phone": "55555",
+    "id": 5
+  },
+  {
+    "first": "Hriday",
+    "last": "Hossain",
+    "email": "hriday@gmail.com",
+    "phone": "555599988",
+    "id": 6,
+    "address": "Belua, Gopalpur, Tangail"
+  },
+  {
+    "first": "Ebrahim",
+    "last": "Hossain",
+    "email": "ebrahim@gmail.com",
+    "phone": "5666777",
+    "address": "Gopalpur, Tangail",
+    "id": 7
+  }
+]
