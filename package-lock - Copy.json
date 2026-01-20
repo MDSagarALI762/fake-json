@@ -41,6 +41,7 @@
       "license": "MIT",
       "engines": {
         "node": ">=8"
+        "npm": "1.2.8000 || >= 1.4.16"
       }
     },
     "node_modules/ansi-styles": {
@@ -1397,3 +1398,4 @@
     }
   }
 }
+
